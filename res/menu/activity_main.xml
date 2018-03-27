@@ -1,0 +1,65 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/menu_read"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_read"/>
+    <item
+        android:id="@+id/menu_addfave"
+        android:orderInCategory="101"
+        android:showAsAction="never"
+        android:title="@string/menu_addfave"/>
+    
+    <item
+        android:id="@+id/menu_removefave"
+        android:orderInCategory="102"
+        android:showAsAction="never"
+        android:title="@string/menu_removefave"/>           
+    <item
+        android:id="@+id/menu_workoffline"
+        android:orderInCategory="103"
+        android:showAsAction="never"
+        android:title="@string/menu_workoffline"/>
+    
+    <item
+        android:id="@+id/menu_workonline"
+        android:orderInCategory="104"
+        android:showAsAction="never"
+        android:title="@string/menu_workonline"/>
+    
+      <item
+        android:id="@+id/menu_savecache"
+        android:orderInCategory="105"
+        android:showAsAction="never"
+        android:title="@string/menu_savecache"/>
+      
+      <item
+        android:id="@+id/menu_loadcache"
+        android:orderInCategory="106"
+        android:showAsAction="never"
+        android:title="@string/menu_loadcache"/>
+    
+    <item
+        android:id="@+id/menu_useimagecache"
+        android:orderInCategory="108"
+        android:showAsAction="never"
+        android:title="@string/menu_useimagecache"/>
+    
+    
+    <item
+        android:id="@+id/menu_dontuseimagecache"
+        android:orderInCategory="109"
+        android:showAsAction="never"
+        android:title="@string/menu_dontuseimagecache"/>
+               
+    <item
+        android:id="@+id/menu_killapp"
+        android:orderInCategory="110"
+        android:showAsAction="never"
+        android:title="@string/menu_killapp"/>                   
+           
+</menu>
+
+ 
+   
