@@ -3,6 +3,7 @@
 Coded during a few days hacking challenge from scratch with no prior mobile-app development experience. Thanks to Ivan for the challenge - to build a basic "useful app". That one had a listview with labels and icons, favorites marking, thumbnails, a simple cache for offline viewing, threading, whatever...  Developed with Eclipse.
 
 Created in 2/2013
+
 License: MIT (C) 2018 
 
 * The source address was hard-coded to: http://feeds.feedburner.com/Mobilecrunch  (It shouldn't, in general.)
